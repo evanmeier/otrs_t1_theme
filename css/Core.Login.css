@@ -128,7 +128,7 @@
  * @subsection  Customizable logos
  */
 #LoginLogo {
-    background: transparent url(../img/login_logo_t1.png) center no-repeat !important;
+    background: transparent url(../img/logo_t1.png) center no-repeat !important;
     background-size: contain;
     height: 125px !important;
     margin-bottom: 30px;
